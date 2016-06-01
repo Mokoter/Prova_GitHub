@@ -19,7 +19,7 @@ namespace Test_GitHub
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hello " + textBox1.Text);
+            MessageBox.Show("ciao " + textBox1.Text);
         }
     }
 }
